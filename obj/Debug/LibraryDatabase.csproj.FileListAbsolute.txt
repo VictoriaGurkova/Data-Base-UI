@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\LibraryDatabase\bin\Debug\LibraryDatabase.exe.config
+C:\Users\user\source\repos\LibraryDatabase\bin\Debug\LibraryDatabase.exe
+C:\Users\user\source\repos\LibraryDatabase\bin\Debug\LibraryDatabase.pdb
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.Properties.Resources.resources
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.exe
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.pdb
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.LoginForm.resources
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.AuthorInsert.resources
+C:\Users\user\source\repos\LibraryDatabase\obj\Debug\LibraryDatabase.BookInsert.resources
